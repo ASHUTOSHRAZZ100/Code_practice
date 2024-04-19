@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "algorithm": "cpp"
+    },
+    "cSpell.words": [
+        "Ashutosh"
+    ],
+    "C_Cpp.errorSquiggles": "enabled"
+}
